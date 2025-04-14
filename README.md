@@ -32,9 +32,10 @@ A stunning 3D developer portfolio built using **React**, **Three.js**, and **Tai
 
 ## 📸 Screenshots
 
-> _Add screenshots or GIFs here to showcase the UI_  
 > _Example:_  
-> ![Hero Section](./screenshots/hero-section.png)
+> 1. Hero Section
+![hero](https://github.com/user-attachments/assets/a3219f4f-534c-42bf-b0e5-9d1e877e2536)
+
 
 ---
 
@@ -47,3 +48,15 @@ To run this project locally:
 ```bash
 git clone https://github.com/your-username/3d-portfolio.git
 cd 3d-portfolio
+```
+
+### 2.Install dependencies
+
+```bash
+npm install
+```
+### 3.Start the development server
+
+```bash
+npm run dev
+```
