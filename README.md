@@ -7,7 +7,7 @@ A stunning 3D developer portfolio built using **React**, **Three.js**, and **Tai
 ## 🌐 Live Demo
 
 👉 [Visit Portfolio](https://your-vercel-link.vercel.app)  
-> _Replace this with your actual Vercel link_
+
 
 ---
 
