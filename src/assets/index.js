@@ -28,7 +28,6 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-import videoProject from "./video.mp4";
 import frontend from "./frontend.png";
 import fullstack from "./fullstack.png";
 import backend from "./backend.png";
@@ -65,7 +64,6 @@ export {
   carrent,
   jobit,
   tripguide,
-  videoProject,
   frontend,
   backend,
   fullstack,
