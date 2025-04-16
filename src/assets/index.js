@@ -35,6 +35,9 @@ import mypic from "./my_pic.jpg";
 
 import JustBlog from "./JustBlog.jpg";
 import QuickConnect from "./quickconnect.jpg";
+import Musitech from "./MUSITECH.jpg";
+import hacktober from "./hacktoberfest.png";
+import linux from "./linuxlogo.svg";
 
 export {
   favicon,
@@ -70,4 +73,7 @@ export {
   mypic,
   JustBlog,
   QuickConnect,
+  Musitech,
+  linux,
+  hacktober,
 };
