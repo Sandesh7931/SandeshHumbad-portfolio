@@ -10,6 +10,11 @@ import Leetcode from "./Leetcode";
 const About = () => {
   return (
     <>
+      <div className="relative w-full flex justify-center mt-[40px] my-28 ">
+        <div className="w-[80%] h-[2px] bg-cyan-400 relative">
+          <div className="absolute left-1/2 -translate-x-1/2 w-[80%] h-[400px] bg-cyan-600 rounded-full blur-[100px] opacity-45 z-[-1]"></div>
+        </div>
+      </div>
       <motion.div variants={textVariant()}>
         <p className={styles.sectionHeadText}>About Me</p>
       </motion.div>

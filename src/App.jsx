@@ -20,7 +20,6 @@ const App = () => {
           <Hero />
         </div>
         <Tech />
-        <hr className={`${styles.hrGlow}`} />
 
         <About />
         <Experience />

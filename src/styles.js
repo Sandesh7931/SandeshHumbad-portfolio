@@ -12,8 +12,8 @@ const styles = {
     "text-white font-bold md:text-[50px] sm:text-[50px] xs:text-[40px] text-[40px] my-4",
   sectionSubText: "sm:text-[18px] text-[14px] text-secondary tracking-wider",
 
-  hrGlow:
-    "w-[60%] mx-auto my-10 h-[2px] bg-white border-none shadow-[0_10px_40px_rgba(255,255,255,0.5)]",
+  // hrGlow:
+  //   "w-[60%] mx-auto my-10 h-[2px] bg-white border-none shadow-[0_10px_40px_rgba(255,255,255,0.5)]",
 };
 
 export { styles };
