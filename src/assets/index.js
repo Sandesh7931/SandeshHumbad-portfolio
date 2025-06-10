@@ -38,8 +38,16 @@ import QuickConnect from "./quickconnect.jpg";
 import Musitech from "./MUSITECH.jpg";
 import hacktober from "./hacktoberfest.png";
 import linux from "./linuxlogo.svg";
+import nssImage from "./nss_image.png";
+import QuickConnect1 from "./Quickconnect.png";
+import blogWebsite from "./blogwebsite.png";
+import currencyCon from "./Currency.png";
 
 export {
+  currencyCon,
+  blogWebsite,
+  QuickConnect1,
+  nssImage,
   favicon,
   creator,
   mobile,

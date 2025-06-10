@@ -2,7 +2,7 @@ import React from "react";
 import { SectionWrapper } from "../hoc";
 import { FaGithub } from "react-icons/fa";
 import { FiExternalLink } from "react-icons/fi";
-import { JustBlog, QuickConnect } from "../assets";
+import { blogWebsite, QuickConnect1, nssImage, currencyCon } from "../assets";
 
 const projects = [
   {
@@ -10,14 +10,28 @@ const projects = [
     title: "JustBlogs",
     github: import.meta.env.VITE_JUSTBLOG_GITHUB_REPO,
     live: import.meta.env.VITE_JUSTBLOG_LIVE_PROJECT,
-    image: JustBlog,
+    image: blogWebsite,
   },
   {
     id: 2,
     title: "QuickConnect",
     github: import.meta.env.VITE_QUICKCONNECT_GITHUB_REPO,
     live: import.meta.env.VITE_QUICKCONNECT_LIVE_PROJECT,
-    image: QuickConnect,
+    image: QuickConnect1,
+  },
+  {
+    id: 3,
+    title: "NSS PDEA Website",
+    github: import.meta.env.VITE_NSS_GITHUB_REPO,
+    live: import.meta.env.VITE_NSS_LIVE_PROJECT,
+    image: nssImage,
+  },
+  {
+    id: 4,
+    title: " Currency Converter",
+    github: import.meta.env.VITE_CC_GITHUB_REPO,
+    live: import.meta.env.VITE_CC_LIVE_PROJECT,
+    image: currencyCon,
   },
 ];
 
