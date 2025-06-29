@@ -30,15 +30,6 @@ A stunning 3D developer portfolio built using **React**, **Three.js**, and **Tai
 
 ---
 
-## 📸 Screenshots
-
-> _Example:_  
-> 1. Hero Section
-![hero](https://github.com/user-attachments/assets/a3219f4f-534c-42bf-b0e5-9d1e877e2536)
-
-
----
-
 ## 🧑‍💻 Getting Started
 
 To run this project locally:
