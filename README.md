@@ -1,4 +1,4 @@
-# Prathamesh 3D Portfolio 🚀
+# Sandesh 3D Portfolio 🚀
 
 A stunning 3D developer portfolio built using **React**, **Three.js**, and **TailwindCSS**, deployed on **Vercel**. This portfolio highlights my skills, experience, and projects with a visually appealing and interactive interface.
 
